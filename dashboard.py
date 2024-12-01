@@ -20,7 +20,7 @@ import plotly.express as px
 ### Reading Data
 """
 
-air_df = pd.read_csv('/content/sample_data/air_data.csv')
+air_df = pd.read_csv('/content/air_data.csv')
 air_df.info()
 
 """## Getting Key Information
