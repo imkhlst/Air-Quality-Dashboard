@@ -1,6 +1,7 @@
 # Air-Quality-Dashboard ✨
 ```
-Disini saya menggunakan Geospacial Analysis menggunakan library folium untuk menganalisis pola/tren dan sebaran data pada suatu wilayah.
+Saya menggunakan Geospacial Analysis menggunakan library folium untuk menganalisis pola/tren dan sebaran
+data pada suatu wilayah.
 ```
 ## Setup Envinroment
 ```
